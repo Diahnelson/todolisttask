@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "diahtodo4"
+    }
+  },
+  "defaultProject": "diahtodo4",
+  "cli": {
+    "analytics": false
+  }
 }
